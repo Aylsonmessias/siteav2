@@ -8,10 +8,10 @@
       <!-- Sidebar user panel (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="image">
-          <img src="dist/img/lm1.jpeg" width="30px" class="img-circle elevation-2" alt="User Image">
+          <img src="dist/img/perfil.jpeg" width="30px" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="curriculo.php" class="curriloco.php">Lucas Martins</a>
+          <a href="https://www.instagram.com/ayllsonmessias">Aylson Messias</a>
         </div>
       </div>
  <!-- Sidebar Menu -->
@@ -27,7 +27,7 @@
             <a href="#" class="nav-link">
               <i class="nav-icon fas fa-copy"></i>
               <p>
-                Atividade
+                Questões
                 <i class="fas fa-angle-left right"></i>
                 <span class="badge badge-info right">10</span>
               </p>

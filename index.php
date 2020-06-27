@@ -44,11 +44,11 @@
                                       <!-- Horizontal Form -->
                               <div class="card card-info">
                                   <div class="card-header">
-                                      <h1 class="card-title"> Programação WEB - Unileão</h1>
+                                      <h1 class="card-title"> ADS - Unileão</h1>
                                   </div>
                                        <!-- Content here -->
                               </div>
-                                 <p> <img src="dist/img/ads.jpg" class="card-img-top" alt="análise e desenvolvimento de software">
+                                 <p> <img src="dist/img/index.png"  class="card-img-top" alt="análise e desenvolvimento de software">
                           </div>
   </section>
 
