@@ -85,13 +85,7 @@
                 </form>
             </div>
              
-            <?php 
-            echo"<br>Produto escolhido é : ".($produto);
-            echo "<br>O Resultado é: R$ " .calculo($valor,$desc).",00";
-            echo "<br>Valor Original: R$".number_format($valor).",00" ;
-            echo "<br> O valor do desconto é : " .($desc*100)."%";
-            
-            ?>
+          
             
        </div><!-- /.container-fluid -->
   </section>
